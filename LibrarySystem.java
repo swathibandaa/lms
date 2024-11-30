@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class LibrarySystem {
     public static void main(String[] args) {
         Library library = new Library();
-        Scanner scanner = new Scanner(System.in);
+        Scanner scanner = new Scanner(system.in);
         String choice;
 
         // Adding some books to the library
